@@ -29,7 +29,7 @@ When you invent new products, sometimes the data you need isn't available for yo
 
 **Learning experience 2:**  
 Understand data process.  
-In order to be a good developer, you must know the lifecycle of every data/parameter/variable you use and HOW,WHY,WHEN they change. This is just simple data process question. That's why you must parse all the data you scrape into a readible JSON format.
+In order to be a good developer, you must know the lifecycle of every data/parameter/variable you use and HOW, WHY, WHEN they change. This is just simple data process question. That's why you must parse all the data you scrape into a readible JSON format.
 
 ### Instructions:
 Build two routes: **GET:{baseUrl}/user_profile** and **GET:{baseUrl}/user_profile_continue**
